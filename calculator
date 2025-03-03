@@ -1,0 +1,20 @@
+# Python-Project9-CALCULATOR-
+# Calculator 
+
+This is a simple Python calculator that performs basic arithmetic operations (+, -, *, /). The user can continuously perform calculations, using the previous answer as the first number in the next operation.
+
+## How to Use
+1. Run the script.
+2. Enter the first number.
+3. Choose an operator (+, -, *, /).
+4. Enter the second number.
+5. View the result.
+6. Choose whether to continue with the current answer or start a new calculation.
+
+## Features
+- Supports addition, subtraction, multiplication, and division.
+- Handles division by zero.
+- Allows continuous calculations.
+
+Enjoy calculating!
+
